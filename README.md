@@ -6,7 +6,7 @@ Made with Unity version 2021.3.28f using C#.
 
 ![image](https://github.com/teasmyth/Behavior-Tree-C-with-Unity-UI-Toolkit/assets/66149371/83e55d5d-4b10-40cc-af70-09c45ec91bb7)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PvlLTAuZuAI)
+[![image](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PvlLTAuZuAI)
 
 This code was done by a following a tutorial. I am using this in a personal project that requires enemy AI behaviour. The game will be published later.
 The tutorials:
